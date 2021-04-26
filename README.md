@@ -1,6 +1,7 @@
 # ssh-login-telegram-notification
 ### Use with PAM
 ###### Setup a Telegram bot
+sudo apt install jq
 First of all, you’ll need to have a Telegram account and create a Telegram bot
 ###### Script to send message via the bot
 Put file ssh-telegram.sh to /usr/local/bin/
